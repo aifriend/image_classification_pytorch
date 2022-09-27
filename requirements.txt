@@ -1,0 +1,14 @@
+numpy~=1.22.3
+pandas~=1.4.1
+matplotlib~=3.5.1
+Pillow~=9.0.1
+torchvision==0.10.0
+pdf2image~=1.16.0
+datasets~=2.0.0
+pdfminer
+tika~=1.24
+pytesseract~=0.3.8
+albumentations==1.1.0
+opencv-python~=4.6.0.66
+tqdm~=4.64.0
+pyspellchecker~=0.6.3
